@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hello, I'm @olaf1005
 
-I'm a full-time full-stack & Blockchain developer 👨&zwj;💻 working remotely until 2022 🚀
+I'm a full-time Full-stack & Blockchain developer 👨&zwj;💻 working remotely until 2022 🚀
 
 Grounded and solution-oriented Computer Scientist with a wide variety of professional experiences. Passionate about Full Stack with in MERN, MEVN Stacks. Also passionate blockchain developer with over three years of experience in the industry. Proven ability to develop innovative solutions on the blockchain, build decentralized applications. Offering strong attention to detail and accuracy, excellent problem-solving skills and having a good teamwork spirit. 
 
